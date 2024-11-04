@@ -3,6 +3,8 @@ a compilation of useful code for data visualization in python : )
 - `df.shape[0]` returns an integer that represents the total number of rows
 - `df.shape[1]` returns an integer that represents the total number of columns
 - `np.arange({integer})` returns an array of evenly spaced values within a given interval
+- `np.linspace(start, stop, num=0.5)` returns evenly spaced samples, calculated over the interval.
+- `np.asarray(input data in any form)` returns an array
 ## Matplotlib
 ### One Direction (1D)
 ```python
